@@ -3,8 +3,7 @@
     <div class="container">
         <div class="navbar-translate">
             <a class="navbar-brand" href="#home">
-                <!-- <img src="https://marlondemas.github.io/online-cv/img/makes.png" alt="logo" width="60px"> -->
-                MarlonDemas
+                MD
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>

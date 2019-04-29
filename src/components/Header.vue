@@ -1,9 +1,9 @@
 <template>
-    <div class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url('/assets/astronomy-backlit-blue-mountains-1434608.jpg');">
+    <div id="home" class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url('/assets/astronomy-backlit-blue-mountains-1434608.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
-                    <div class="brand">
+                    <div class="brand animated zoomInUp">
                         <h1>Marlon Demas</h1>
                         <h3>Junior Web Developer</h3>
                     </div>
