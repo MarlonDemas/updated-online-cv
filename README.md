@@ -34,7 +34,7 @@ Launch the site from the index.html file.
 
 ### Live Link
 I have also included a hosted live link below:
-https://github.com/MarlonDemas/updated-online-cv.git
+https://marlondemascv.netlify.com/
 
 ## Built With
 
